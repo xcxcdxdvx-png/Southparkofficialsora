@@ -1,0 +1,17 @@
+{
+  "sourceName": "South Park (EN)",
+  "author": {
+    "name": "box_sheets",
+    "icon": "https://www.southpark.de/favicon.ico"
+  },
+  "iconUrl": "https://images.paramount.tech/uri/mgid:arc:imageassetref:shared.southpark.us.en:88778738-b9f9-42b7-8fcb-f2066aeb940f?format=jpg&width=1200&height=630&crop=true",
+  "version": "1.0.0",
+  "language": "English (Original)",
+  "baseUrl": "https://www.southpark.de/en/",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "searchBaseUrl": "https://www.southpark.de/en/api/search?q=%s&activeTab=Series&pageNumber=0&rowsPerPage=16",
+  "scriptUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/southpark_en/southpark_en.js",
+  "asyncJS": true,
+  "type": "shows"
+}

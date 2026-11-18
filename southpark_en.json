@@ -11,7 +11,7 @@
   "streamType": "HLS",
   "quality": "1080p",
   "searchBaseUrl": "https://www.southpark.de/en/api/search?q=%s&activeTab=Series&pageNumber=0&rowsPerPage=16",
-  "scriptUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/southpark_en/southpark_en.js",
+  "scriptUrl": "https://raw.githubusercontent.com/xcxcdxdvx-png/Southparkofficialsora/refs/heads/main/southpark_en.js",
   "asyncJS": true,
   "type": "shows"
 }
